@@ -1,10 +1,10 @@
 # prtl-kernel
 
 ## Description
-Project prtl-kernel
+"Portal Kernel" (`prtl-kernel`). Likely a core kernel component for the Portal operating system/environment.
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD
 
 ## Progress
 - [ ] Initial setup
